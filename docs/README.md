@@ -2,13 +2,13 @@
 
 A JSON-RPC Model Context Protocol server exposing site content to agents (read tools public; bearer-gated write tools create real posts in registered tables).
 
-- **Source:** https://github.com/fadymondy/content-mcp
+- **Source:** https://github.com/togo-framework/content-mcp
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/content-mcp
+togo install togo-framework/content-mcp
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

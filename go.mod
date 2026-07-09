@@ -1,4 +1,4 @@
-module github.com/fadymondy/content-mcp
+module github.com/togo-framework/content-mcp
 
 go 1.26.4
 

@@ -1,10 +1,10 @@
 <!-- togo-header -->
 <div align="center">
   <img src=".github/assets/togo-mark.svg" alt="togo" height="64" />
-  <h1>fadymondy/content-mcp</h1>
+  <h1>togo-framework/content-mcp</h1>
   <p>
     <a href="https://to-go.dev/marketplace"><img src="https://img.shields.io/badge/marketplace-to--go.dev-1FC7DC" alt="marketplace" /></a>
-    <a href="https://pkg.go.dev/github.com/fadymondy/content-mcp"><img src="https://pkg.go.dev/badge/github.com/fadymondy/content-mcp.svg" alt="pkg.go.dev" /></a>
+    <a href="https://pkg.go.dev/github.com/togo-framework/content-mcp"><img src="https://pkg.go.dev/badge/github.com/togo-framework/content-mcp.svg" alt="pkg.go.dev" /></a>
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT" />
   </p>
   <p><strong>A <a href="https://to-go.dev">togo</a> plugin — extracted from <a href="https://fadymondy.com">fadymondy.com</a>.</strong></p>
@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-togo install fadymondy/content-mcp
+togo install togo-framework/content-mcp
 ```
 
 <!-- /togo-header -->
